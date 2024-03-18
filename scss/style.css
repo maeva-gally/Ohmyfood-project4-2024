@@ -199,7 +199,7 @@ a {
   font-weight: 500;
   box-shadow: 0 4px 10px 0 #d5d5d5;
   cursor: pointer;
-  margin: 27px 75px 57px 82px;
+  margin: 22px 21px 197px 293px;
   transition: opacity 300ms ease-in-out;
 }
 .hero__btngradient:hover {
@@ -215,7 +215,7 @@ a {
 .button__like {
   width: 28px;
   z-index: 0;
-  position: relative;
+  position: absolute;
   font-family: "Font Awesome 5 Free";
   font-size: 25px;
   padding: 0;
@@ -772,8 +772,8 @@ a {
   font-size: 17px;
 }
 .restaurant__cards--like {
-  position: absolute;
-  top: 76%;
+  position: relative;
+  top: 75%;
   right: 7%;
   font-size: 25px;
 }

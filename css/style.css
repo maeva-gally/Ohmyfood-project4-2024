@@ -665,7 +665,7 @@ a {
   justify-content: center;
   align-items: center;
   width: 20px;
-  height: 24px;
+  height: 25px;
   color: #7E7E7E;
 }
 .functioning__step--subtitle {
@@ -773,7 +773,7 @@ a {
 }
 .restaurant__cards--like {
   position: absolute;
-  top: 76px;
+  top: 76%;
   right: 7%;
   font-size: 25px;
 }
